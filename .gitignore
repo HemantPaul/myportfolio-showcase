@@ -1,0 +1,108 @@
+# ════════════════════════════════════════════════════════════════
+#   .gitignore — Showcase / Portfolio Repo
+#   This repo is PUBLIC. This file ensures NOTHING sensitive leaks.
+# ════════════════════════════════════════════════════════════════
+
+# ── Source Code (keep private) ───────────────────────────────────
+src/
+app/
+pages/
+components/
+lib/
+utils/
+hooks/
+services/
+controllers/
+models/
+routes/
+middleware/
+config/
+server/
+backend/
+api/
+
+# ── Environment & Secrets ────────────────────────────────────────
+.env
+.env.*
+*.env
+.env.local
+.env.development
+.env.production
+.env.staging
+.env.test
+secrets/
+credentials/
+*.pem
+*.key
+*.cert
+*.p12
+*.pfx
+serviceAccountKey.json
+firebase-adminsdk*.json
+
+# ── Database ─────────────────────────────────────────────────────
+*.sql
+*.sqlite
+*.db
+database/
+migrations/
+seeds/
+
+# ── Build Output ─────────────────────────────────────────────────
+.next/
+out/
+build/
+dist/
+.nuxt/
+.output/
+.vite/
+
+# ── Dependencies ─────────────────────────────────────────────────
+node_modules/
+.pnp
+.pnp.js
+vendor/
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ── Config Files with Possible Secrets ───────────────────────────
+vercel.json
+netlify.toml
+firebase.json
+.firebaserc
+wrangler.toml
+docker-compose*.yml
+Dockerfile
+kubernetes/
+k8s/
+
+# ── IDE & OS ─────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+
+# ── Package Lock (no need in showcase) ───────────────────────────
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# ── Test & Coverage ───────────────────────────────────────────────
+coverage/
+.nyc_output/
+*.test.*
+*.spec.*
+__tests__/
+cypress/
+playwright/
+
+# ── Misc ─────────────────────────────────────────────────────────
+*.backup
+*.bak
+*.tmp
+.cache/
