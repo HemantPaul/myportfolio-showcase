@@ -35,50 +35,6 @@
 
 </div>
 
-## 📸 Preview
-
-<div align="center">
-
-<!-- Replace these with real screenshots once captured -->
-
-### Hero — Cinematic Intro
-![Hero Section](screenshots/hero.png)
-
-> *Cinematic boot sequence → letter-by-letter name reveal → live 3D WebGL scene*
-
-<br/>
-
-### Skills Galaxy
-![Skills Section](screenshots/skills.png)
-
-> *Interactive tech nodes with particle explosions on hover*
-
-<br/>
-
-### Projects Lab
-![Projects Section](screenshots/projects.png)
-
-> *Holographic cards with 3D tilt physics and shimmer overlays*
-
-<br/>
-
-### Contact Terminal
-![Contact Section](screenshots/contact.png)
-
-> *Cyberpunk terminal UI with animated holographic form*
-
-<br/>
-
-### ▶ Live Interaction Demo
-
-![Demo GIF](screenshots/demo.gif)
-
-> *Custom cursor physics, smooth scroll, and real-time 3D interaction*
-
-</div>
-
----
-
 ## 🎯 Why I Built This
 
 Most developer portfolios are templates. I wanted mine to be a statement.
@@ -174,28 +130,7 @@ Every technical decision — the physics cursor, the WebGL orb, the scroll-trigg
 
 ---
 
-## 📐 Repo Structure
 
-```
-hemant-paul-portfolio/         ← This public showcase repo
-│
-├── 📁 screenshots/            ← Site previews & demo GIF
-│   └── README.md              ← Screenshot capture guide
-│
-├── 📁 docs/
-│   └── ARCHITECTURE.md        ← High-level system design
-│
-├── 📁 assets/                 ← Logo, banners, static assets
-│
-├── .gitignore                 ← Blocks all source code & secrets
-├── README.md                  ← This file
-└── LICENSE                    ← All Rights Reserved
-```
-
-> ⚠️ **The actual source code lives in a private repository.**
-> This repo exists purely as a public showcase.
-
----
 
 ## 🚀 Live Deployment
 
@@ -235,11 +170,11 @@ I'm open to full-time roles, internships, and interesting freelance projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--kappa--flame--21.vercel.app-00d4ff?style=for-the-badge)](https://my-portfolio-kappa-flame-21.vercel.app)
 
-[![Email](https://img.shields.io/badge/Email-hemant.paul%40kiit.ac.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant.paul@kiit.ac.in)
+[![Email](https://img.shields.io/badge/Email-hemant.paul%40kiit.ac.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantPaul)
 
 <br/>
 
