@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-# Hemant Paul — Portfolio v3.0
+# Hemant Paul — MyPortfolio
 
 ### *A next-generation cinematic developer portfolio*
 
