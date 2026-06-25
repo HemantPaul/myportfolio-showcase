@@ -88,7 +88,7 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 * Client-side Three.js rendering for optimal load performance
 * GPU-accelerated motion pipeline for fluid interactions
 
-→ See `docs/ARCHITECTURE.md`
+→ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full breakdown.
 
 
 ---
