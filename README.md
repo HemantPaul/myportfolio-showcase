@@ -50,31 +50,46 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 * Glassmorphism UI with neon accents, gradients, and futuristic design elements
 * Smooth scrolling, parallax effects, and motion-rich page transitions
 * Fully responsive, accessible, and performance-optimized for production
-* 
+
 ---
 
-## 🏗️ High-Level Architecture
+## Architecture
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                    CLIENT LAYER                      │
-│  Next.js 14 · React 18 · TypeScript · Tailwind CSS  │
-│  Framer Motion · GSAP · Three.js · Lenis            │
-└─────────────────────┬───────────────────────────────┘
-                      │ Static Site (SSG)
-┌─────────────────────▼───────────────────────────────┐
-│                  DELIVERY LAYER                      │
-│  Vercel Edge Network · CDN · HTTPS · Image Optim.   │
-└─────────────────────────────────────────────────────┘
+**Frontend**
+
+* Next.js 14
+* React 18
+* TypeScript
+* Tailwind CSS
+
+**Animation & Motion**
+
+* Framer Motion
+* GSAP
+* Lenis
+
+**3D & Graphics**
+
+* Three.js
+* React Three Fiber
+
+**Deployment**
+
+* Vercel Edge Network
+* Static Site Generation (SSG)
+* Global CDN & HTTPS
+
 ```
 
-**Rendering:** 100% Static Generation (SSG) — zero server cost, instant global load times.
+###  Under the Hood
 
-**3D Performance Strategy:** The Three.js canvas is loaded via dynamic import (client-side only), preventing SSR conflicts and keeping the initial JS bundle small.
+* Static-first architecture with Next.js SSG
+* Client-side Three.js rendering for optimal load performance
+* GPU-accelerated motion pipeline for fluid interactions
 
-**Animation Architecture:** All animations run on the GPU compositor thread using `transform` and `opacity` only — no layout recalculations, no jank.
+→ See `docs/ARCHITECTURE.md`
 
-→ See [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) for the full breakdown.
 
 ---
 
