@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-Mera Portfolio
+# Mera Portfolio
 
 ### *A simple developer portfolio*
 
