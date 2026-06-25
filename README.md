@@ -140,8 +140,8 @@ I'm open to full-time roles, internships, and interesting freelance projects.
 
 <br/>
 
-**HEMANT PAUL**
-A NOOB DEVELOPER
+**A NOOB DEVELOPER**
+
 
 </div>
 
