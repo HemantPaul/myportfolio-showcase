@@ -7,17 +7,14 @@
 
 <br/><br/>
 
-# Hemant Paul — MyPortfolio
+# Mera Portfolio
 
-### *A next-generation cinematic developer portfolio*
+### *A simple developer portfolio*
 
 <br/>
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-00d4ff?style=for-the-badge)](https://my-portfolio-kappa-flame-21.vercel.app)
 &nbsp;
-[![Status](https://img.shields.io/badge/Status-Live%20%26%20Active-00ff88?style=for-the-badge)](#)
-&nbsp;
-[![Made With](https://img.shields.io/badge/Made%20With-Next.js%2014-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org)
 
 <br/>
 
