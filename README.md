@@ -18,9 +18,9 @@
 
 <br/>
 
-> **Not just a portfolio. A digital experience.**
+> **Not just a portfolio. A completely unnecessary amount of frontend engineering.**
 >
-> Built to feel like a fusion of an Apple keynote, a sci-fi OS, and an Awwwards-winning interaction design.
+> built with animations, transitions, and visual effects to impress at least one designer.
 
 <br/>
 
@@ -34,13 +34,12 @@
 
 ## 🎯 Why I Built This
 
-Most developer portfolios are templates. I wanted mine to be a statement.
+Most portfolios tell you what a developer can do.
+I wanted mine to show it.
 
-The goal was to answer one question: **"Can a portfolio itself demonstrate a developer's skill level?"**
+The goal was to answer one question: **"Can a portfolio be proof of skill instead of a list of skills?"**
 
-Every technical decision — the physics cursor, the WebGL orb, the scroll-triggered animations, the holographic glass cards — is intentional. It's not decoration. It's a live demo of what I can build.
-
-> *When a recruiter lands on this page, I want them to feel the difference before they read a single word.*
+The idea was simple: if I'm applying for frontend and product engineering roles, the portfolio itself should be the first project people evaluate—not just a page that links to other projects.
 
 ---
 
