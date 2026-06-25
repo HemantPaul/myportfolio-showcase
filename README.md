@@ -105,34 +105,20 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 
 ---
 
-
-
-## 🚀 Live Deployment
-
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 [my-portfolio-kappa-flame-21.vercel.app](https://my-portfolio-kappa-flame-21.vercel.app)
 
 Experience the full interactive portfolio in your browser.
 
-| Environment | URL | Status |
-|---|---|---|
-| **Production** | [my-portfolio-kappa-flame-21.vercel.app](https://my-portfolio-kappa-flame-21.vercel.app) | 🟢 Live |
-
 ---
 
-## 🔮 Future Improvements
+## 🔮 Next Up
 
-- [ ] **Blog section** — MDX-powered technical writing
-- [ ] **Case studies** — Deep-dive pages for each project
-- [ ] **EmailJS integration** — Make the contact form actually send emails
-- [ ] **Cursor audio** — Subtle ambient sound effects tied to interactions
-- [ ] **Dark/Light mode** — System preference detection
-- [ ] **GSAP page transitions** — Cinematic route change animations
-- [ ] **Prefers-reduced-motion** — Full accessibility compliance
-- [ ] **Lighthouse 100** — Push all four scores to 100
-- [ ] **WebGL shader upgrades** — Custom GLSL vertex/fragment shaders on the orb
-- [ ] **i18n** — Hindi / multilingual support
+* Blog & technical writing
+* Project case studies
+* Enhanced accessibility & reduced-motion support
+* Custom WebGL shader experiments
 
 ---
 
@@ -146,17 +132,16 @@ I'm open to full-time roles, internships, and interesting freelance projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--kappa--flame--21.vercel.app-00d4ff?style=for-the-badge)](https://my-portfolio-kappa-flame-21.vercel.app)
 
-[![Email](https://img.shields.io/badge/Email-hemant.paul%40kiit.ac.in-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hemant%40paul-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemantpaul3011@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemant-paul-hp30)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemantPaul)
 
 <br/>
 
-**Hemant Paul**
-Full Stack Developer · KIIT University, Bhubaneswar
-*Available for opportunities*
+**HEMANT PAUL**
+A NOOB DEVELOPER
 
 </div>
 
@@ -164,8 +149,6 @@ Full Stack Developer · KIIT University, Bhubaneswar
 
 <div align="center">
 
-© 2025 Hemant Paul · All Rights Reserved
-
-*Source code is private and protected. This repository is a showcase only.*
+© 2026 Hemant Paul · All Rights Reserved
 
 </div>
