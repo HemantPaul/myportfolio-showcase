@@ -2,12 +2,11 @@
 
 <br/>
 
-<!-- Replace with your own logo or remove -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIrNCh-tDX61ojMM6DfRSAC2jdk_2GG0o5K4HrN5tPA&s" alt="HP Logo" width="80" height="80" style="border-radius:50%"/>
 
 <br/><br/>
 
-# Mera Portfolio
+Mera Portfolio
 
 ### *A simple developer portfolio*
 
