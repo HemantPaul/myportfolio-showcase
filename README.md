@@ -23,7 +23,7 @@
 
 <br/>
 
-**[🚀 View Live →](https://my-portfolio-kappa-flame-21.vercel.app)**
+**[View Live →](https://my-portfolio-kappa-flame-21.vercel.app)**
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 </div>
 
-## 🎯 Why I Built This
+## Why I Built This
 
 Most portfolios tell you what a developer can do.
 I wanted mine to show it.
@@ -42,45 +42,15 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 
 ---
 
-## ✨ Features
+## Highlights
 
-### 🎬 Cinematic Experience
-- **Digital boot sequence** — Custom loading screen with system-boot terminal copy and animated progress
-- **Letter-by-letter hero reveal** — Staggered character animation with parallax depth
-- **Scroll storytelling** — Every section animates into existence as you navigate
-- **Section transitions** — No hard cuts; everything flows cinematically
-
-### 🌌 3D & WebGL
-- **Live Three.js hero scene** — Neural orb with particle field and three animated orbital rings
-- **Mouse-reactive 3D** — The orb physically tracks your cursor in real time using lerp interpolation
-- **Dynamic lighting** — Point lights follow the cursor and shift color based on position
-- **Ambient particle field** — 200+ particles orbit the scene responding to interaction
-
-### 🖱️ Advanced Interactions
-- **Custom physics cursor** — Spring-damping cursor with a fading particle trail (8-particle trail system)
-- **Magnetic buttons** — CTA buttons physically attract toward the cursor using motion values
-- **3D card tilt** — Project cards tilt on X and Y axes tracking exact mouse position
-- **Particle explosions** — Skill nodes emit bursts of particles on hover
-
-### 🎨 Visual Design System
-- **Glassmorphism** — Frosted-glass cards with holographic colour-shifting overlays
-- **Cyber grid** — Animated perspective grid with neon blue lines throughout
-- **Film grain** — SVG noise texture overlay for cinematic depth
-- **Neon glow** — Dynamic `box-shadow` and `text-shadow` glow effects on all interactive elements
-- **Gradient text** — Animated blue-to-purple gradient on headings via `background-clip`
-
-### 📜 Scroll & Motion
-- **Lenis smooth scrolling** — Eased, buttery scroll synced with GSAP ScrollTrigger
-- **Parallax layers** — Background elements translate at different rates on scroll
-- **Timeline animations** — Experience nodes pulse as they enter the viewport
-- **Scroll velocity effects** — Animation speed adapts to scroll speed
-
-### 📱 Production Quality
-- **Fully responsive** — Works on mobile, tablet, and desktop
-- **Performance optimised** — Three.js scene lazy-loaded, animations GPU-accelerated
-- **Accessible** — Semantic HTML, ARIA labels, keyboard navigation support
-- **Security headers** — X-Frame-Options, XSS protection, Referrer-Policy at edge
-
+* Cinematic landing experience with a custom boot sequence and scroll-driven storytelling
+* Interactive 3D hero built with Three.js and real-time mouse-reactive animations
+* Physics-based cursor, magnetic interactions, and immersive micro-animations
+* Glassmorphism UI with neon accents, gradients, and futuristic design elements
+* Smooth scrolling, parallax effects, and motion-rich page transitions
+* Fully responsive, accessible, and performance-optimized for production
+* 
 ---
 
 ## 🏗️ High-Level Architecture
