@@ -93,20 +93,15 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-| Category | Technology | Purpose |
-|---|---|---|
-| **Framework** | Next.js 14 (App Router) | SSG, routing, performance |
-| **Language** | TypeScript | Type safety across all components |
-| **Styling** | Tailwind CSS | Utility-first design system |
-| **3D / WebGL** | Three.js + React Three Fiber | Hero scene, orb, particles |
-| **3D Helpers** | @react-three/drei | Stars, Float, MeshDistortMaterial |
-| **Animation** | Framer Motion | Component animations, spring physics |
-| **Animation** | GSAP + ScrollTrigger | Scroll-driven animations, timeline |
-| **Smooth Scroll** | Lenis | Eased scroll synced with GSAP ticker |
-| **Fonts** | Clash Display + Satoshi | Premium typographic identity |
-| **Deployment** | Vercel | Edge CDN, automatic HTTPS, previews |
+**Frontend:** Next.js 14 · React · TypeScript · Tailwind CSS
+
+**Animation:** Framer Motion · GSAP · Lenis
+
+**3D Graphics:** Three.js · React Three Fiber · Drei
+
+**Deployment:** Vercel
 
 ---
 
@@ -114,14 +109,15 @@ The idea was simple: if I'm applying for frontend and product engineering roles,
 
 ## 🚀 Live Deployment
 
+## 🚀 Live Demo
+
+🔗 [my-portfolio-kappa-flame-21.vercel.app](https://my-portfolio-kappa-flame-21.vercel.app)
+
+Experience the full interactive portfolio in your browser.
+
 | Environment | URL | Status |
 |---|---|---|
 | **Production** | [my-portfolio-kappa-flame-21.vercel.app](https://my-portfolio-kappa-flame-21.vercel.app) | 🟢 Live |
-
-**Hosting:** Vercel (Hobby Plan)
-**CDN:** Vercel Edge Network — served from the nearest global region
-**Deploy time:** ~45 seconds from push to live
-**Uptime:** 99.99% (Vercel SLA)
 
 ---
 
